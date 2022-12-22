@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe633f4-a925-4fd6-a88b-ae2409c5299b" name="Changes" comment="comit/java.ee">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2fe633f4-a925-4fd6-a88b-ae2409c5299b" name="Changes" comment="comit/Java_ee">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="java_e" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,8 +95,16 @@
       <workItem from="1671455341637" duration="3248000" />
       <workItem from="1671458642008" duration="1691000" />
       <workItem from="1671729618490" duration="510000" />
-      <workItem from="1671730520869" duration="5568000" />
+      <workItem from="1671730520869" duration="6367000" />
     </task>
+    <task id="LOCAL-00001" summary="comit">
+      <created>1671736215143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671736215143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,9 +134,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="comit" />
     <MESSAGE value="comit/java.ee/" />
     <MESSAGE value="comit/java.ee" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit/java.ee" />
+    <MESSAGE value="comit" />
+    <MESSAGE value="comit/Java_ee" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit/Java_ee" />
   </component>
 </project>
